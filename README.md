@@ -105,9 +105,3 @@ Abgerufen am 19.11.2026.
 https://www.nist.gov/system/files/documents/oles/6_Hill-STR-typing-2.pdf
 
 Abgerufen am 19.11.2026.
-
-**[18]** Alfs, N., Heusinger von Waldegge, K. und Hößle, C. (2012). Bewertungsprozesse verstehen und diagnostizieren. Zeitschrift für interpretative Schul- und Unterrichtsforschung, 1(1), 83-112. Abschnitt 2.3, S. 91.
-
-https://doi.org/10.25656/01:15880
-
-Abgerufen am 19.11.2026.
