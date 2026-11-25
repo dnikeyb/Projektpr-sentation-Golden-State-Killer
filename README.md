@@ -2,8 +2,6 @@
 
 [Quellenverzeichnis als Website](https://dnikeyb.github.io/Projektpr-sentation-Golden-State-Killer/) · [PDF herunterladen](Quellenverzeichnis.pdf)
 
-18 Quellen zur Biologie-Präsentation über genetische Genealogie und genetische Privatsphäre.
-
 **[1]** Fera, L. L. (29.06.2020). Joseph James DeAngelo Jr. Pleads Guilty to 13 Murders, 13 Kidnappings and Dozens of Additional Uncharged Crimes. Orange County District Attorney, Fall 18FE008017.
 
 https://ocdistrictattorney.gov/press/joseph-james-deangelo-jr-pleads-guilty-to-13-murders-13-kidnappings-and-dozens-of-additional-uncharged-crimes/
